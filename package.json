@@ -2,7 +2,7 @@
     "name": "ezprofile",
     "version": "1.0.0",
     "description": "Kickstart your personal portfolio with Github Api and blog",
-    "homepage": "https://arifszn.github.io/ezprofile",
+    "homepage": "https://mehedi2024.github.io/ezprofile",
     "private": true,
     "license": "Apache-2.0",
     "author": "arifszn",
@@ -60,7 +60,8 @@
     "devDependencies": {
         "autoprefixer": "^9.8.6",
         "postcss": "^7.0.36",
-        "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7"
+        "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.7",
+        "xxxxx": "^1.0.3"
     },
     "keywords": [
         "personal-site",

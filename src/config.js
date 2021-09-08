@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'Mehedi2024', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,28 +10,23 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
-        facebook: '',
-        dribbble: '',
-        behance: '',
+        linkedin: 'Mehdi Hasan',
+        twitter: 'Mehdi_hasan24',
+        facebook: 'https://www.facebook.com/Mahdihasanneloy/',
+        upwork: 'https://www.upwork.com/o/profiles/users/~0162aa0475fbfa12b6/',
+        fiverr: 'https://www.fiverr.com/mehdihasan20?up_rollout=true',
         medium: '',
         devto: '',
         website: 'https://arifszn.github.io',
         email: 'contact@arifszn.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
         'JavaScript',
         'React.js',
-        'Vue.js',
-        'Node.js',
         'Jquery',
         'MySQL',
         'Git',
         'CSS',
-        'Antd',
         'Tailwind',
         'Bootstrap',
     ],
@@ -57,21 +52,21 @@ module.exports = {
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
+            institution: 'University Of Liberal Arts',
             degree: 'Bachelor of Science',
-            from: '2015',
-            to: '2019'
+            from: '2016',
+            to: '202'
         },
         { 
-            institution: 'Cantonment College, Jessore',
+            institution: 'Adamjhee Cantonment College',
             degree: 'Higher Secondary Certificate (HSC)',
             from: '2012',
             to: '2014',
         },
         { 
-            institution: 'Chowgacha Shahadat Pilot High School',
+            institution: 'Dhanmondi Government Boys High School',
             degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
+            from: '2002',
             to: '2012'
         }
     ],
